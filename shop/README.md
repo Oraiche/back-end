@@ -9,11 +9,10 @@ Ce projet est une application Spring Boot de gestion des produits qui utilise un
 - Docker et Docker Compose : Pour déployer la base de données PostgreSQL.
 
 # Lancer l'Application
-Démarrer la base de données PostgreSQL :
- dans le repertoir tools du projet lancer:  docker-compose up -d .
+Pour démarrer la base de données PostgreSQL, rendez-vous dans le répertoire tools du projet et lancez la commande suivante : docker-compose up -d .
 
 # Installer les dépendances et compiler l’application avec Maven 
-1- Dans le répertoire du projet, exécutez :
+1- Dans le répertoire du projet, lancez la commande suivante :
    mvn clean install
 2- Lancer l'application Spring Boot :
    mvn spring-boot:run
