@@ -1,6 +1,6 @@
 # Alten shop
  ## Description
-Ce projet est une application Spring Boot de gestion des produits qui utilise une base de données PostgreSQL, configurée pour demarer par Docker Compose.
+Ce projet est une application Spring Boot de gestion des produits qui utilise une base de données PostgreSQL, configurée pour demarer avec Docker Compose.
  Un fichier JSON est également inclus pour charger des données de test dans Postman.
 
 ## Prérequis
