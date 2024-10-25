@@ -16,3 +16,6 @@ Pour démarrer la base de données PostgreSQL, rendez-vous dans le répertoire t
    mvn clean install
 2- Lancer l'application Spring Boot :
    mvn spring-boot:run
+
+# Tester l'API via Postman
+Pour tester les endpoints de cette API avec Postman : Importer la collection "api-products.postman-test.json" de projet dans Postman 
