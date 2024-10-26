@@ -13,7 +13,7 @@ Pour démarrer la base de données PostgreSQL, rendez-vous dans le répertoire t
 
 # Installer les dépendances et compiler l’application avec Maven 
 1- Dans le répertoire du projet, lancez la commande suivante :
-   mvn clean install
+   mvn clean compile
 2- Lancer l'application Spring Boot :
    mvn spring-boot:run
 
